@@ -1,7 +1,7 @@
 # Web-Development-Class
-This is web development class.
+Assignment for Mr. Emmanuel
 
-CSS:
+ List of CSS Topics:
 1. Float
 2. Positioning
 3. Display
