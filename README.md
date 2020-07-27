@@ -11,4 +11,4 @@ CSS:
 7. Font-size
 8. Flex-box
 9. Border
-10. 
+10. Background-image
